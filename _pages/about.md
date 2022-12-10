@@ -12,7 +12,7 @@ I am an undergraduate at Tsinghua University with research interest in statistic
 
 Working Paper
 ======
-**On the On the Exploration in Load-Balancing with Unknown Service Rates**  
+**On the Exploration in Load-Balancing with Unknown Service Rates**  
 Yifei Huang, Zhiyuan Tang, Weina Wang (alphabetical order)  
 Submitted to ACM SIGMETRICS 2023
 
@@ -22,8 +22,8 @@ In progress
 
 Miscellaneous
 ======
-My profile photo is taken by my friend.
+In my free time I like to listen to music, especially those I can dance to. I am fond of TV plays and movies. I am a fan of the Netflix series *the Stranger Things* since high school.
 
-I am with Tsinghua Students Choir since 2019. My part is alto.
+My profile photo is taken by my friend [Shawn](https://www.linkedin.com/in/zeshengfu/).
 
 My sister [Ningjing Tang](https://ningjingtang.com/).
